@@ -15,7 +15,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-NestJs" src="https://img.shields.io/badge/NestJs-%23333?style=for-the-badge&logo=nestjs&logoColor=red">
-  <img align="center" alt="Lucas-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Lucas-Angular" src="https://img.shields.io/badge/Angular-007ACC?style=for-the-badge&logo=angular&logoColor=red">
   <img align="center" alt="Lucas-Spring" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img align="center" alt="Lucas-Laravel" src="https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=Laravel&logoColor=red">
 </div>
