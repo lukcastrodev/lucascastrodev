@@ -12,6 +12,7 @@
   <img align="center" alt="Lucas-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Lucas-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Lucas-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Lucas-PHP" src="https://img.shields.io/badge/PHP-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" src="https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=openjdk&logoColor=white">
