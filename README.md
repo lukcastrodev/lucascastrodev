@@ -17,6 +17,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" src="https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Lucas-Spring" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img align="center" alt="Lucas-Spring" src="https://img.shields.io/badge/Laravel-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 </div>
   
   ##
