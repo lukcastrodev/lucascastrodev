@@ -10,8 +10,8 @@
   <img align="center" alt="Lucas-NodeJs" src="https://img.shields.io/badge/Node.js-239120?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Lucas-NestJs" src="https://img.shields.io/badge/NestJs-DD0031?style=for-the-badge&logo=nestjs&logoColor=white">
   <img align="center" alt="Lucas-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" alt="Lucas-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Lucas-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Lucas-HTML" src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Lucas-CSS" src="https://img.shields.io/badge/CSS-264DE4?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Lucas-PHP" src="https://img.shields.io/badge/PHP-4F5B93?&style=for-the-badge&logo=php&logoColor=white">
 </div>
 <div style="display: inline_block"><br>
